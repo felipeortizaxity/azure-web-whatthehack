@@ -1,6 +1,6 @@
 @minLength(3)
 @maxLength(11)
-param fooaa string
+param namePrefix string
 
 param location string = resourceGroup().location
 
